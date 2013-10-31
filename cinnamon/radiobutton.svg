@@ -11,7 +11,7 @@
    height="24.000008"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="radiobutton.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -22,20 +22,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="707"
-     inkscape:window-height="522"
+     inkscape:window-width="1440"
+     inkscape:window-height="823"
      id="namedview20"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="4.4402956"
-     inkscape:cx="25.874779"
-     inkscape:cy="10.092769"
-     inkscape:window-x="92"
-     inkscape:window-y="382"
-     inkscape:window-maximized="0"
+     inkscape:zoom="17.761182"
+     inkscape:cx="7.2298984"
+     inkscape:cy="11.328041"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g9" />
   <defs
      id="defs4">
@@ -67,7 +67,7 @@
        id="path4346"
        d="m 190.86055,105.84055 c 0,46.58175 -37.76196,84.34375 -84.34372,84.34375 -46.581756,0 -84.34373,-37.76198 -84.34373,-84.34375 0,-46.581735 37.761974,-84.343697 84.34373,-84.343697 46.58176,0 84.34372,37.761963 84.34372,84.343697 z"
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-rule:nonzero;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;filter:url(#filter4352)" />
+       style="fill:#ffffff;fill-rule:nonzero;stroke:#1991e8;stroke-width:12.00400701000000048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;fill-opacity:0;stroke-opacity:1;stroke-dasharray:none" />
     <path
        stroke-miterlimit="4"
        d="m 189.86055,104.84055 c 0,46.58175 -37.76196,84.34375 -84.34372,84.34375 -46.581756,0 -84.34373,-37.76198 -84.34373,-84.34375 0,-46.581735 37.761974,-84.343697 84.34373,-84.343697 46.58176,0 84.34372,37.761963 84.34372,84.343697 z"
@@ -94,6 +94,6 @@
        id="path3787"
        d="m 143.93051,105.84056 c 0,20.66301 -16.75068,37.4137 -37.41369,37.4137 -20.663,0 -37.413679,-16.75068 -37.413679,-37.4137 0,-20.663001 16.750679,-37.41368 37.413679,-37.41368 20.66301,0 37.41369,16.750679 37.41369,37.41368 z"
        inkscape:connector-curvature="0"
-       style="fill:#000000;fill-rule:nonzero;stroke-width:12" />
+       style="fill:#1991e8;fill-rule:nonzero;stroke-width:12;fill-opacity:1" />
   </g>
 </svg>

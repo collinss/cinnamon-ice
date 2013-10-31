@@ -14,8 +14,8 @@
    height="22"
    id="svg3199"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="checkbox.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="checkbox-off.svg">
   <defs
      id="defs3201">
     <linearGradient
@@ -139,16 +139,16 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="71.247925"
-     inkscape:cy="33.339093"
+     inkscape:zoom="16"
+     inkscape:cx="16.884911"
+     inkscape:cy="9.4479722"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g16853-4"
      showgrid="false"
      inkscape:window-width="1412"
-     inkscape:window-height="1067"
-     inkscape:window-x="2116"
-     inkscape:window-y="261"
+     inkscape:window-height="821"
+     inkscape:window-x="22"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -171,7 +171,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,38 +181,34 @@
      id="layer1"
      transform="translate(-342.5,-521.36218)">
     <g
-       transform="matrix(0.84337,0,0,0.84337,-110.16632,-503.56182)"
-       id="g14586">
+       style="display:inline;enable-background:new"
+       id="g15291-9"
+       transform="matrix(1.6841497,0,0,1.6841497,-445.03052,236.07774)"
+       inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
-         transform="matrix(1.9969286,0,0,1.9969286,-397.05491,877.00482)"
-         id="g15291-9"
-         style="display:inline;enable-background:new">
-        <g
-           transform="translate(877.50354,-102.83507)"
-           id="g16853-4"
-           style="enable-background:new">
-          <rect
-             transform="scale(1,-1)"
-             style="color:#000000;fill:url(#linearGradient14219);fill-opacity:1;fill-rule:nonzero;stroke:#868686;stroke-width:0.59377144999999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-             id="rect6506-6"
-             width="11.281681"
-             height="11.26221"
-             x="-409.59354"
-             y="-284.40115"
-             rx="0.95632279"
-             ry="0.95632273" />
-        </g>
+         style="enable-background:new"
+         id="g16853-4"
+         transform="translate(877.50354,-102.83507)">
+        <rect
+           ry="0.95632273"
+           rx="0.95632279"
+           y="-284.40115"
+           x="-409.59354"
+           height="11.26221"
+           width="11.281681"
+           id="rect6506-6"
+           style="color:#000000;fill:#0a161e;fill-opacity:1;fill-rule:nonzero;stroke:#1991e8;stroke-width:0.59377146000000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+           transform="scale(1,-1)" />
       </g>
-      <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
-         transform="translate(343.99999,987.99997)"
-         id="g5886"
-         style="display:inline;enable-background:new" />
     </g>
+    <g
+       style="display:inline;enable-background:new"
+       id="g5886"
+       transform="matrix(0.84337,0,0,0.84337,179.95295,329.68771)"
+       inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
