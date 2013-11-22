@@ -64,7 +64,7 @@ StScrollBar StButton#vhandle:hover {
 }
 
 StEntry {
-    background-color: #fff;
+    /*background-color: #fff;*/
     width: 150px;
 }
 
@@ -2134,6 +2134,7 @@ StEntry {
 /* ===================================================================
  * Soundbox Desklet (SCollins)
  * ===================================================================*/
+/*soundbox theme*/
 .soundbox-mainBox {
     border: 2px solid #1991E8;
     border-radius: 10px 10px 10px 10px;
@@ -2196,6 +2197,7 @@ StEntry {
     -slider-handle-height: 10px;
     -slider-handle-width: 8px;
     -slider-handle-color: #1991E8;
+    -slider-handle-border-color: #1991E8;
     -slider-handle-border-width: 0px;
 }
 
@@ -2236,13 +2238,10 @@ StEntry {
     color: #1991E8;
 }
 
-.soundbox-albumCover-box {
-}
-
 .soundbox-albumCover {
     border: 1px solid #1991E8;
     border-radius: 5px 5px 5px 5px;
-    icon_size: 200px;
+    icon-size: 200px;
     width: 200px;
     height: 200px;
 }
@@ -2300,6 +2299,7 @@ StEntry {
 }
 
 #Tooltip.soundbox-tooltip {
+    font-size: 12px;
     border-image: none;
     color: #1991E8;
     border: solid 1px #1991E8;
@@ -2331,3 +2331,76 @@ StEntry {
     -arrow-background-color: rgba(0,0,0,0);
 }
 
+/*compact*/
+.soundbox-mainBox:compact {
+    padding: 0px 0px 0px 0px;
+}
+
+.soundbox-buttonMenu:compact {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 1px 0px 1px 0px;
+    border-radius: 0px;
+}
+
+.soundbox-divider:compact {
+    background-color: transparent;
+    height: 0px;
+}
+
+.soundbox-divider-box:compact {
+    padding: 0px;
+}
+
+.soundbox-volumeButton:compact {
+    padding: 0px 2px 2px 2px;
+}
+
+.soundbox-volumeIcon:compact {
+    icon-size: 14px;
+}
+
+.soundbox-slider:compact {
+    height: 10px;
+    min-width: 175px;
+    -slider-height: 2px;
+    -slider-active-height: 2px;
+    -slider-handle-height: 5px;
+}
+
+.soundbox-appIcon:compact {
+    icon-size: 1em;
+}
+
+.soundbox-trackInfoBox:compact {
+    padding: 0px;
+}
+
+.soundbox-trackInfo:compact {
+    padding: 0px;
+}
+
+.soundbox-trackInfo-icon:compact {
+    icon-size: 1em;
+}
+
+.soundbox-timeBox:compact {
+    padding: 0px;
+}
+
+.soundbox-buttonBox:compact{
+    padding: 0px 2px 0px 2px;
+    border: solid 1px #1991E8;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.soundbox-soundButton:compact {
+    border: none;
+    height: 16px;
+    width: 16px;
+}
+
+.soundbox-soundButton-box:compact {
+    padding: 0px;
+}
