@@ -297,7 +297,6 @@ StEntry {
     background-gradient-end: white;
     transition-duration: 300;
     box-shadow: inset 0px 2px 4px rgba(0,0,0,0.6);
-
     caret-color: #a8a8a8;
     caret-size: 1px;
 }
@@ -308,7 +307,6 @@ StEntry {
     background-gradient-direction: vertical;
     background-gradient-start: rgb(200,200,200);
     background-gradient-end: white;
-
     caret-color: #545454;
     selection-background-color: #808080;
 }
@@ -328,7 +326,8 @@ StEntry {
     height: 26px;
 }
 
-#panelLeft, #panelCenter {
+#panelLeft,
+#panelCenter {
     spacing: 0px;
 }
 
@@ -2109,9 +2108,14 @@ StEntry {
     padding: 3px;
 }
 
-.devtools-refreshBox {
+.devtools-terminalEntry-box {
     padding: 3px;
-    spacin: 2px;
+}
+
+.devtools-terminalEntry {
+    background-color: #0A161E;
+    border: solid 1px #1991E8;
+    border-radius: 5px 5px 5px 5px;
 }
 
 
@@ -2119,15 +2123,92 @@ StEntry {
  * Calculator Desklet (SCollins)
  * ===================================================================*/
 .calc-button {
+    height: 40px;
+    width: 50px;
     color: #1991E8;
     border: solid 1px #1991E8;
     border-radius: 5px 5px 5px 5px;
+    margin: 20px;
 }
 
 .calc-button:hover {
     background-gradient-direction: vertical;
     background-gradient-start: #214B66;
     background-gradient-end: #112430;
+}
+
+.calc-button-padding {
+    padding: 3px;
+}
+
+.calc-mainBox {
+    padding: 5px;
+}
+
+.calc-displayArea {
+    padding: 5px;
+}
+
+.calc-displayWindow {
+    height: 44px;
+    background-color: #ffffff;
+    border-width: 2px;
+    border-color: #000000;
+    padding: 10px;
+}
+
+.calc-displayWindow-rpn {
+    /*height: 5px;*/
+    background-color: #ffffff;
+    border-width: 2px;
+    border-color: #000000;
+    padding: 10px;
+}
+
+.calc-displayText-primary {
+    font-size: 32px;
+    color: #555;
+    text-align: right;
+}
+
+.calc-displayText-secondary {
+    font-size: 10px;
+    color: #555;
+    text-align: right;
+}
+
+.calc-displayText-operation {
+    font-size: 24px;
+    color: #555;
+}
+
+.calc-displayText-status {
+    font-size: 8px;
+    color: #555;
+}
+
+.calc-displayText-rpn {
+    color: #555;
+}
+
+.calc-stackArea {
+    height: 85px;
+    padding-top: 8px;
+}
+
+.calc-navigation-box {
+    padding: 0px 0px 0px 8px;
+    width: 22px;
+}
+
+.calc-navigation-icon {
+    color: #555;
+    icon-size: 16px;
+}
+
+.calc-navigation-button {
+    border: solid 1px #555;
+    border-radius: 3px;
 }
 
 
